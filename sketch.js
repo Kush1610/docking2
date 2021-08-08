@@ -7,31 +7,31 @@ var time=0;
 var gameState=Start
 
 function preload(){
-bgImg= loadImage("Images/spacebg.jpg");
-bg2Img= loadImage("Images/bg.jpg");
-ebgImg= loadImage("Images/ebg.JPG");
+bgImg= loadImage("spacebg.jpg");
+bg2Img= loadImage("bg.jpg");
+ebgImg= loadImage("ebg.JPG");
 
-IssImage= loadImage("Images/iss.png");
-spacecraft1Img= loadImage("Images/spacecraft1.png");
-spacecraft2Img= loadImage("Images/spacecraft2.png");
-spacecraft3Img= loadImage("Images/spacecraft3.png");
-spacecraft4Img= loadImage("Images/spacecraft4.png");
+IssImage= loadImage("iss.png");
+spacecraft1Img= loadImage("spacecraft1.png");
+spacecraft2Img= loadImage("spacecraft2.png");
+spacecraft3Img= loadImage("spacecraft3.png");
+spacecraft4Img= loadImage("spacecraft4.png");
 
-PlaybImg= loadImage("Images/play.png");
-insbImg= loadImage("Images/how2.png");
-resImg= loadImage("Images/Restart.png");
-crossbImg= loadImage("Images/cross.png");
-insImg= loadImage("Images/ins.png");
+PlaybImg= loadImage("play.png");
+insbImg= loadImage("how2.png");
+resImg= loadImage("Restart.png");
+crossbImg= loadImage("cross.png");
+insImg= loadImage("ins.png");
 
 marsImg= loadAnimation("Images/mars/P-0.png","Images/mars/P-2.png","Images/mars/P-4.png","Images/mars/P-6.png","Images/mars/P-8.png","Images/mars/P-10.png","Images/mars/P-12.png","Images/mars/P-14.png","Images/mars/P-16.png","Images/mars/P-18.png");
 marsImg= loadAnimation("Images/mars/P-0.png","Images/mars/P-2.png","Images/mars/P-4.png","Images/mars/P-6.png","Images/mars/P-8.png","Images/mars/P-10.png","Images/mars/P-12.png","Images/mars/P-14.png","Images/mars/P-16.png","Images/mars/P-18.png");
 star2Img= loadAnimation("Images/star2/L-0.png","Images/star2/L-1.png","Images/star2/L-2.png")
 earthImg= loadAnimation("Images/earth/1-0.png","Images/earth/1-0.png","Images/earth/1-0.png","Images/earth/1-3.png","Images/earth/1-3.png","Images/earth/1-3.png","Images/earth/1-4.png","Images/earth/1-4.png","Images/earth/1-4.png","Images/earth/1-5.png","Images/earth/1-5.png","Images/earth/1-5.png","Images/earth/1-7.png","Images/earth/1-7.png","Images/earth/1-7.png","Images/earth/1-9.png","Images/earth/1-9.png","Images/earth/1-9.png")
 jupImg= loadAnimation("Images/jupiter/d-0.png","Images/jupiter/d-1.png","Images/jupiter/d-2.png","Images/jupiter/d-3.png","Images/jupiter/d-4.png","Images/jupiter/d-5.png","Images/jupiter/d-6.png","Images/jupiter/d-7.png","Images/jupiter/d-8.png")
-astbeltImg= loadImage("Images/astbelt2.png");
-holoImg= loadImage("Images/holo.png");
-astrImg= loadImage("Images/astr.png");
-astr2Img= loadImage("Images/astr2.png");
+astbeltImg= loadImage("astbelt2.png");
+holoImg= loadImage("holo.png");
+astrImg= loadImage("astr.png");
+astr2Img= loadImage("astr2.png");
 }
 
 
