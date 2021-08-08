@@ -23,11 +23,10 @@ resImg= loadImage("Restart.png");
 crossbImg= loadImage("cross.png");
 insImg= loadImage("ins.png");
 
-marsImg= loadAnimation("Images/mars/P-0.png","Images/mars/P-2.png","Images/mars/P-4.png","Images/mars/P-6.png","Images/mars/P-8.png","Images/mars/P-10.png","Images/mars/P-12.png","Images/mars/P-14.png","Images/mars/P-16.png","Images/mars/P-18.png");
-marsImg= loadAnimation("Images/mars/P-0.png","Images/mars/P-2.png","Images/mars/P-4.png","Images/mars/P-6.png","Images/mars/P-8.png","Images/mars/P-10.png","Images/mars/P-12.png","Images/mars/P-14.png","Images/mars/P-16.png","Images/mars/P-18.png");
-star2Img= loadAnimation("Images/star2/L-0.png","Images/star2/L-1.png","Images/star2/L-2.png")
-earthImg= loadAnimation("Images/earth/1-0.png","Images/earth/1-0.png","Images/earth/1-0.png","Images/earth/1-3.png","Images/earth/1-3.png","Images/earth/1-3.png","Images/earth/1-4.png","Images/earth/1-4.png","Images/earth/1-4.png","Images/earth/1-5.png","Images/earth/1-5.png","Images/earth/1-5.png","Images/earth/1-7.png","Images/earth/1-7.png","Images/earth/1-7.png","Images/earth/1-9.png","Images/earth/1-9.png","Images/earth/1-9.png")
-jupImg= loadAnimation("Images/jupiter/d-0.png","Images/jupiter/d-1.png","Images/jupiter/d-2.png","Images/jupiter/d-3.png","Images/jupiter/d-4.png","Images/jupiter/d-5.png","Images/jupiter/d-6.png","Images/jupiter/d-7.png","Images/jupiter/d-8.png")
+marsImg= loadAnimation("mars/P-0.png","mars/P-2.png","mars/P-4.png","mars/P-6.png","mars/P-8.png","mars/P-10.png","mars/P-12.png","mars/P-14.png","mars/P-16.png","mars/P-18.png");
+star2Img= loadAnimation("star2/L-0.png","star2/L-1.png","star2/L-2.png")
+earthImg= loadAnimation("earth/1-0.png","earth/1-0.png","earth/1-0.png","earth/1-3.png","earth/1-3.png","earth/1-3.png","earth/1-4.png","earth/1-4.png","earth/1-4.png","earth/1-5.png","earth/1-5.png","earth/1-5.png","earth/1-7.png","earth/1-7.png","earth/1-7.png","earth/1-9.png","earth/1-9.png","earth/1-9.png")
+jupImg= loadAnimation("jupiter/d-0.png","jupiter/d-1.png","jupiter/d-2.png","jupiter/d-3.png","jupiter/d-4.png","jupiter/d-5.png","jupiter/d-6.png","jupiter/d-7.png","jupiter/d-8.png")
 astbeltImg= loadImage("astbelt2.png");
 holoImg= loadImage("holo.png");
 astrImg= loadImage("astr.png");
